@@ -1,4 +1,3 @@
 # algorithm
-## coding_test
-
+## 코테준비용_파이썬
 
